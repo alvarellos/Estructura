@@ -1,0 +1,42 @@
+{C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity funcFG
+-- Compiling architecture circuito_Estruc of funcFG
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity bp_funcFG
+-- Compiling architecture bp_funcFG of bp_funcFG
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and2
+-- Compiling architecture and2 of and2
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or2
+-- Compiling architecture or2 of or2
+
+} {} {}} {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd} {1 {vcom -work work -2002 -explicit -stats=none {C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd}
+Model Technology ModelSim ALTERA vcom 10.4b Compiler 2015.05 May 27 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity not1
+-- Compiling architecture not1 of not1
+
+} {} {}}

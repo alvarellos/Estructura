@@ -1,0 +1,207 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Comportamiento
+Eand2
+Z0 w1459079078
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura
+Z4 8C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd
+Z5 FC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd
+l0
+L6
+VLe3k7dH7Q;14Nh0l7Mi141
+!s100 zB5aX@]UzZh9lH;`V2P<G1
+Z6 OV;C;10.4b;61
+32
+Z7 !s110 1459332335
+!i10b 1
+Z8 !s108 1459332335.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd|
+Z10 !s107 C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_and.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1
+Aand2
+R1
+R2
+DEx4 work 4 and2 0 22 Le3k7dH7Q;14Nh0l7Mi141
+l12
+L11
+V:5jfQ`?oNnKO[973MTDDY1
+!s100 ?cY8^[jH7J<c28:;XD9Wg1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebp_funcfg
+Z13 w1459079179
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z15 8C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd
+Z16 FC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd
+l0
+L6
+V>m7ihWUMD4`ULV^ON=DX;0
+!s100 oYI1L:@29I1M[[W2X6GR52
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd|
+Z18 !s107 C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/bp_funcionFG.vhd|
+!i113 1
+R11
+R12
+Abp_funcfg
+R14
+R1
+R2
+Z19 DEx4 work 9 bp_funcfg 0 22 >m7ihWUMD4`ULV^ON=DX;0
+l19
+L10
+Z20 V5AFQjaUfJeQf>Z8]m=fDL0
+Z21 !s100 jS2?3z_7ODikJS>G_3c_U2
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Efuncfg
+Z22 w1459332332
+R1
+R2
+R3
+Z23 8C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd
+Z24 FC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd
+l0
+L5
+VSOQVLnNUn^B^RNz1Tn@KT3
+!s100 :?0=dZfkG;LZ@0W6@BdhD1
+R6
+32
+R7
+!i10b 1
+R8
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd|
+Z26 !s107 C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/funcionFG.vhd|
+!i113 1
+R11
+R12
+Acircuito_estruc
+R1
+R2
+DEx4 work 6 funcfg 0 22 SOQVLnNUn^B^RNz1Tn@KT3
+l40
+L20
+VFIN3a@Mn4hb[zdc7JL[S70
+!s100 oSdWHn?aG@j:TAU>0ikh`3
+R6
+32
+R7
+!i10b 1
+R8
+R25
+R26
+!i113 1
+R11
+R12
+Enot1
+Z27 w1459079112
+R1
+R2
+R3
+Z28 8C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd
+Z29 FC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd
+l0
+L6
+VdRN>TAeH4[QDIeO;@0Qil1
+!s100 aRROlF?kA>82<0oag6:j@2
+R6
+32
+R7
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd|
+Z31 !s107 C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_not.vhd|
+!i113 1
+R11
+R12
+Anot1
+R1
+R2
+DEx4 work 4 not1 0 22 dRN>TAeH4[QDIeO;@0Qil1
+l12
+L11
+VO7DKQ[XBKomLWAbEaQYQg3
+!s100 D=kQe4kgo;6ojC_Ra<doU2
+R6
+32
+R7
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Eor2
+Z32 w1459079090
+R1
+R2
+R3
+Z33 8C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd
+Z34 FC:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd
+l0
+L6
+VXN^i^`e_j2iELeQ=>G?[S3
+!s100 3dl_AjY^dH5`<a04hYnE`0
+R6
+32
+R7
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd|
+Z36 !s107 C:/Users/Diego/Desktop/Practica IC3. Diego Diaz. Junio 2016/Ejercicio1. Estructura/logic_or.vhd|
+!i113 1
+R11
+R12
+Aor2
+R1
+R2
+DEx4 work 3 or2 0 22 XN^i^`e_j2iELeQ=>G?[S3
+l12
+L11
+V9HPeobQB^;>b_hh`i;ROd2
+!s100 >bC2GU4Qfi3GEBh`claQD1
+R6
+32
+R7
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
